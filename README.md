@@ -31,8 +31,8 @@ print("Swapped values are:",x,y)
 ```
 
 ## OUTPUT:
+![swapoutput](https://github.com/RenukaRamesh/Swapping-two-values/assets/145742979/31637467-511c-42ce-9dcc-4b937db35909)
 
-![output](/swapoutput.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
